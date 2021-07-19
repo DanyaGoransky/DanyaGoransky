@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanyaGoransky
 - 👀 I’m interested in IT-technologies
 - 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on my penis
+- 💞️ I’m looking to collaborate on my skills
 - 📫 How to reach me 
 
 <!---
